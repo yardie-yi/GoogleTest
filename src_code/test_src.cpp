@@ -2,7 +2,7 @@
 
 Value::Value(int base_num) 
 {
-    if ((input_num < 5) || (input_num > 10)) {
+    if ((base_num < 5) || (base_num > 10)) {
         num = 5;
     } else {
         num = base_num;

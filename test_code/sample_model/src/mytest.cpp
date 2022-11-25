@@ -1,18 +1,4 @@
-#include <gtest/gtest.h>
 #include "mytest.h"
-#include "test_src.h"
-
-Test::SetUp()
-{
-    //在每个用例执行之前都会执行此处的代码，可将每个用例重复性的代码放于此方法
-    cout << "SetUp()" << endl; 
-}
-
-Test::TearDown()
-{
-    //在每个用例执行之后都会执行此处的代码，可将每个用例重复性的代码放于此方法
-    cout << "TearDown()" << endl; 
-}
 
 /*对test_src.h中Value类is_eq_num方法的测试
   使用Value类实例化一个对象，并使用构造函数给类成员num赋值

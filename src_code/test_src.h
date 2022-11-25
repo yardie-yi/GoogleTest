@@ -12,7 +12,7 @@ private:
 public:
     Value(int base_num);
     int is_eq_num(int input_num);
-}
+};
 
 
 #endif
