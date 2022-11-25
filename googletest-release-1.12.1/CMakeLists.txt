@@ -3,6 +3,7 @@
 
 cmake_minimum_required(VERSION 3.5)
 
+#如果编译pc端，则屏蔽一下两行；如果编译板端，则修改板端对应的交叉编译工具
 set(CMAKE_C_COMPILER "/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc")
 set(CMAKE_CXX_COMPILER "/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++")
 
