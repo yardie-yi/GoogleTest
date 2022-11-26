@@ -1,1 +1,1 @@
-# GoogleTest
+# GoogleTest sample
