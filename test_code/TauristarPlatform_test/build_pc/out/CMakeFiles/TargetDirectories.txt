@@ -1,0 +1,3 @@
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/TauristarPlatform_test/build_pc/out/CMakeFiles/rebuild_cache.dir
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/TauristarPlatform_test/build_pc/out/CMakeFiles/ts_test.dir
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/TauristarPlatform_test/build_pc/out/CMakeFiles/edit_cache.dir

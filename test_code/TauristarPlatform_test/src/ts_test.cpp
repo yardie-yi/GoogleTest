@@ -1,5 +1,5 @@
 #include "ts_test.h"
-
+#include <time.h>
 /*
  *对算法源码ApaInfoProcessIF.h中ApaInfoProcessIF类方法InputAIJacintoParkSpaceVec进行测试.
  *bool InputAIJacintoParkSpaceVec(std::vector<float>& parkSpaceDetect, CAM_DIRECTION camDir, int armTime);
@@ -8,29 +8,20 @@
  *int32_t，时间戳，单位为ms
 */
 
+//该例子仅单纯调用算法接口，没有按照正常流程去调用。该接口必定返回失败。
+
 //测试用例1；用例名称为testcase1
-TEST_F(Test, testcase1)
+TEST_F(TsTest, testcase1)
 {
+    bool result;
+    time_t rawtime;
+    struct tm *now_time;
     ApaInfoProcessIF apa_info;
-	//EXPECT_EQ(a, b)：检查a与b是否相等。
-    EXPECT_EQ(num.is_eq_num(5), 1);
-}
+    vector<float>parkSpaceDetect(16, 0.01);
 
-//测试用例2；用例名称为testcase2
-TEST_F(Test, testcase2)
-{
-    Value num(5);
-    EXPECT_EQ(num.is_eq_num(7), 0);
-}
+    time(&rawtime);
+    now_time = localtime(&rawtime);
 
-TEST_F(Test, testcase3)
-{
-    Value num(7);
-    EXPECT_EQ(num.is_eq_num(1), -1);
-}
-
-TEST_F(Test, testcase4)
-{
-    Value num(7);
-    EXPECT_EQ(num.is_eq_num(5), 1);
+    result = apa_info.InputAIJacintoParkSpaceVec(parkSpaceDetect, CAM_DIRECTION_LEFT, now_time->tm_sec);
+    EXPECT_EQ(result, 1);
 }

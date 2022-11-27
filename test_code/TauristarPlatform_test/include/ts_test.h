@@ -3,6 +3,7 @@
 
 #include <gtest/gtest.h>
 #include "ApaInfoProcessIF.h"
+#include "param/car_param.h"
 
 using namespace std;
 
