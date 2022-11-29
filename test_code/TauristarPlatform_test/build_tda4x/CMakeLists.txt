@@ -36,6 +36,8 @@ link_directories(${PROJECT_SOURCE_DIR}/../../../../TauristarPlatform/src/taurist
 link_directories(${PROJECT_SOURCE_DIR}/../../../../TauristarPlatform/src/tauristar_platform/build_tda4/tauristar_platform_app)
 link_directories(${PROJECT_SOURCE_DIR}/../../../../ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/usr/lib)
 link_directories(${PROJECT_SOURCE_DIR}/../../../../TauristarPlatformThirdparty/third_party/ffmpeg/install_tda4/ffmpeg-3.4.11/lib)
+link_directories(${PROJECT_SOURCE_DIR}/../../../../ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/usr/lib)
+link_directories(${PROJECT_SOURCE_DIR}/../../../../ti-processor-sdk-rtos-j7-evm-07_03_00_05/vision_apps/apps/basic_demos/app_aitronx_ada/libs)
 #link_directories(${PROJECT_SOURCE_DIR}/../../../../TauristarPlatform/src/tauristar_platform/build/lib)
 
 
@@ -147,16 +149,16 @@ set(Boost_LIBS
 )
 
 set(LIB_NAMES
-        #pages
-        #app
-        #module
-        #aicontrol
-        #shader
-        #show
-        #look
-        #datamng
-        #bstisp
-        #glm_shared
+        pages
+        app
+        module
+        aicontrol
+        shader
+        show
+        look
+        datamng
+        bstisp
+        glm_shared
         GLESv2
         wayland-egl
         wayland-client
@@ -183,7 +185,7 @@ set(LIB_NAMES
         tauristar_operations 
         tauristar_procedure
         tauristar_geometry
-        #tauristar-yaml-cpp
+        tauristar-yaml-cpp
         drlib
         fcw 
         fcwcal
@@ -202,7 +204,7 @@ set(LIB_NAMES
         lib_avm 
         lib_avm_util motion_planner 
         mpc_controller_lib
-        #nl2sol 
+        nl2sol 
         optimizer 
         pugixml 
         qpOASES 
@@ -212,14 +214,13 @@ set(LIB_NAMES
         ts_image_geometry 
         yaml-cpp 
         zlib 
-        #MNN
+        MNN
         ${OpenCV_LIBS}
         ${Boost_LIBS}
         rt
         avcodec
         avformat
         avutil
-        bsdlib
     )
 
 #链接
