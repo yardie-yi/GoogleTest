@@ -1,0 +1,3 @@
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/rebuild_cache.dir
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/edit_cache.dir
