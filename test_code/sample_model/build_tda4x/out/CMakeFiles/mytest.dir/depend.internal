@@ -46,6 +46,6 @@ CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/samp
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
- ../../../../src_code/test_src.h
+ ../../../../sample_src_code/test_src.h
  ../../include/mytest.h
  /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp

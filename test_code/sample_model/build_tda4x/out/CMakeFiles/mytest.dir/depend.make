@@ -45,7 +45,7 @@ CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/samp
 CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
 CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp.o: ../../../../src_code/test_src.h
+CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp.o: ../../../../sample_src_code/test_src.h
 CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp.o: ../../include/mytest.h
 CMakeFiles/mytest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp
 

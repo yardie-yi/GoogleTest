@@ -25,8 +25,8 @@ link_directories(${TEST_SOURCE_DIR})
 # 生成可执行文件
 add_executable(mytest ../main.cpp ../src/mytest.cpp)
 #链接
-target_link_libraries(mytest testsrc gtest gtest_main gmock gmock_main pthread)
-
+#target_link_libraries(mytest testsrc gtest gtest_main gmock gmock_main pthread)
+target_link_libraries(mytest test_src gtest gtest_main gmock gmock_main pthread)
 
 
 

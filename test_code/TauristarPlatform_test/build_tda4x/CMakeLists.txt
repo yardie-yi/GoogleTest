@@ -38,7 +38,7 @@ link_directories(${PROJECT_SOURCE_DIR}/../../../../ti-processor-sdk-rtos-j7-evm-
 link_directories(${PROJECT_SOURCE_DIR}/../../../../TauristarPlatformThirdparty/third_party/ffmpeg/install_tda4/ffmpeg-3.4.11/lib)
 link_directories(${PROJECT_SOURCE_DIR}/../../../../ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/usr/lib)
 link_directories(${PROJECT_SOURCE_DIR}/../../../../ti-processor-sdk-rtos-j7-evm-07_03_00_05/vision_apps/apps/basic_demos/app_aitronx_ada/libs)
-#link_directories(${PROJECT_SOURCE_DIR}/../../../../TauristarPlatform/src/tauristar_platform/build/lib)
+link_directories(${SDK_PATH}/ti-processor-sdk-linux-j7-evm-07_03_00_05/linux-devkit/sysroots/aarch64-linux/usr/lib)
 
 
 # 生成可执行文件
@@ -111,7 +111,7 @@ set(TS_LIB
 
 set (OpenCV_LIBS                                                                                                                                                   
     opencv_features2d
-    #opencv_flann
+    opencv_flann
     opencv_highgui
     opencv_imgcodecs
     opencv_imgproc
@@ -157,8 +157,18 @@ set(LIB_NAMES
         show
         look
         datamng
-        bstisp
-        glm_shared
+        #bstisp
+        #glm_shared
+        atomic
+        x264
+        xvidcore
+        swresample
+        tauristar_c
+        crypto
+        ssl
+        z
+        png16
+        glapi
         GLESv2
         wayland-egl
         wayland-client
@@ -224,7 +234,7 @@ set(LIB_NAMES
     )
 
 #链接
-target_link_libraries(ts_test gtest gtest_main gmock gmock_main pthread ${LIB_NAMES} ${OpenCV_LIBS} ${Boost_LIBS} )
+target_link_libraries(ts_test gtest gtest_main gmock gmock_main pthread ${LIB_NAMES} ${OpenCV_LIBS} ${Boost_LIBS} ${STATIC_LIBS})
 
 #运行可执行文件前需要设置环境变量：
 #export LD_LIBRARY_PATH=./lib:$LD_LIBRARY_PATH:/home/yardie/Desktop/TDA4X_master/TauristarPlatformThirdparty/third_party/install/x86_64/opencv_v3.1.0/lib/

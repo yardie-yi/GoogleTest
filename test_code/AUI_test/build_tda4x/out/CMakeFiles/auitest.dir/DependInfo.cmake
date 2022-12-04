@@ -16,10 +16,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../../include"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/shader"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm"
-  "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm/glm"
-  "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL"
-  "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm/GLES2"
-  "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm/GLES3"
   )
 
 # Targets to which this target links.

@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../../../src_code -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../include -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../../../googletest-release-1.12.1/googletest/include -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../../../googletest-release-1.12.1/googletest/include/gtest 
+CXX_INCLUDES = -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../../../sample_src_code -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../include -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../../../googletest-release-1.12.1/googletest/include -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/build_tda4x/../../../googletest-release-1.12.1/googletest/include/gtest 
 
