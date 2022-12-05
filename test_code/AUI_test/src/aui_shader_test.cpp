@@ -1,11 +1,11 @@
-#include "aui_test.h"
+#include "aui_shader_test.h"
 
 
 /*
 * API接口测试
 */
 
-//init()接口测试
+//Shader init()接口测试
 TEST_F(ShaderTest_API, shader_api_test_001)
 {
     int ret;
@@ -16,7 +16,7 @@ TEST_F(ShaderTest_API, shader_api_test_001)
     EXPECT_EQ(ret, 1);
 }
 
-//get_shader_by_name接口测试
+//Shader get_shader_by_name接口测试
 TEST_F(ShaderTest_API, shader_api_test_002)
 {
     int ret;
@@ -32,16 +32,21 @@ TEST_F(ShaderTest_API, shader_api_test_002)
     }
 }
 
-//get_shader_by_name接口测试;未初始化init；直接调用get_shader_by_name；预期结果为失败；但运行结果为成功
+//Shader get_shader_by_name接口测试;未初始化init；直接调用get_shader_by_name；预期结果为失败；但运行结果为成功
 TEST_F(ShaderTest_API, shader_api_test_003)
 {
     int ret;
+    bool result = true;
     string name = "xxx";
     Shader* get_shader = NULL;
     Shader Shader_test(name);
 
     get_shader = Shader_test.get_shader_by_name(name);
     if(get_shader == NULL) {
-        EXPECT_EQ(1, 0);
+        result = true;
+        EXPECT_EQ(result, true);
+    } else {
+        result = false;
+        EXPECT_EQ(result, true);
     }
 }

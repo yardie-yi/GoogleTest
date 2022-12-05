@@ -366,11 +366,27 @@ cxxabi.h
 acxx_demangle.h
 -
 
-../../include/aui_test.h
+../../include/aui_aicontrol_test.h
+gtest/gtest.h
+-
+aicontrol.h
+../../include/aicontrol.h
+
+../../include/aui_shader_test.h
 gtest/gtest.h
 -
 shader.h
 ../../include/shader.h
+
+/home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol/aicontrol.h
+../shader/shader.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/shader/shader.h
+../show/show_comm.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_comm.h
+../show/show_tex2d.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_tex2d.h
+../look/matrix.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/look/matrix.h
 
 /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/egl.h
 eglplatform.h
@@ -480,6 +496,14 @@ string
 stdlib.h
 -
 
+/home/yardie/Desktop/TDA4X_master/AUI/ui/look/matrix.h
+math.h
+-
+string.h
+-
+string
+-
+
 /home/yardie/Desktop/TDA4X_master/AUI/ui/shader/shader.h
 stdlib.h
 -
@@ -536,11 +560,31 @@ sstream
 ../datamng/model.h
 /home/yardie/Desktop/TDA4X_master/AUI/ui/datamng/model.h
 
+/home/yardie/Desktop/TDA4X_master/AUI/ui/show/show.h
+../shader/shader.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/shader/shader.h
+
+/home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_comm.h
+../shader/shader.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/shader/shader.h
+show.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/show/show.h
+../look/matrix.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/look/matrix.h
+
+/home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_tex2d.h
+show.h
+/home/yardie/Desktop/TDA4X_master/AUI/ui/show/show.h
+
 /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp
 gtest/gtest.h
 -
 
-/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_test.cpp
-aui_test.h
-/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_test.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp
+aui_aicontrol_test.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.h
+
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp
+aui_shader_test.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.h
 

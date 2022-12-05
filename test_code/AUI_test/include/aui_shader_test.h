@@ -1,8 +1,9 @@
-#ifndef _AUI_TEST_H_
-#define _AUI_TEST_H_
+#ifndef _AUI_SHADER_TEST_H_
+#define _AUI_SHADER_TEST_H_
 
 #include <gtest/gtest.h>
 #include "shader.h"
+
 using namespace std;
 
 //TestCase级别事件
@@ -23,6 +24,5 @@ class ShaderTest_API : public ::testing::Test {
             cout << "------------------" << endl;
         }
 };
-
 
 #endif

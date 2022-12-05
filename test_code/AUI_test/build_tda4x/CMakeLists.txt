@@ -19,6 +19,7 @@ include_directories(
 	${GTEST_SOURCE_DIR}/googletest/include/gtest
     ${PROJECT_SOURCE_DIR}/../include
     ${TEST_SOURCE_DIR}/ui/shader
+    ${TEST_SOURCE_DIR}/ui/aicontrol
     ${TEST_SOURCE_DIR}/ui/comm
 )
 
@@ -37,10 +38,30 @@ link_directories(${TEST_SOURCE_DIR}/ui/product/lib/4x)
 link_directories(${TEST_SOURCE_DIR}/ui/product/lib/4x/boost)
 link_directories(${TEST_SOURCE_DIR}/ui/product/lib/4x/opencv)
 link_directories(${SDK_PATH}/ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/opt/img-powervr-sdk/PVRHub/PVRTrace/Recorder)
+link_directories(${SDK_PATH}/ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/usr/lib)
+link_directories(${SDK_PATH}/ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/lib)
 
-
+set(SOURCE_FILES
+    ../main.cpp
+    ../src/aui_shader_test.cpp
+    ../src/aui_aicontrol_test.cpp
+)
 
 #生成可执行文件
-add_executable(auitest ../main.cpp ../src/aui_test.cpp)
+add_executable(auitest ${SOURCE_FILES})
+
+set(LIB_NAMES
+    PVRTrace
+    GLESv2
+    shader
+    aicontrol
+    show
+    freetype
+    png16
+    z
+    datamng
+    look
+)
+
 #链接
-target_link_libraries(auitest gtest gtest_main gmock gmock_main pthread PVRTrace GLESv2 shader)
+target_link_libraries(auitest gtest gtest_main gmock gmock_main pthread ${LIB_NAMES})
