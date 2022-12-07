@@ -18,10 +18,12 @@ include_directories(
     ${GTEST_SOURCE_DIR}/googletest/include
 	${GTEST_SOURCE_DIR}/googletest/include/gtest
     ${PROJECT_SOURCE_DIR}/../include
+    ${PROJECT_SOURCE_DIR}/../device
     ${TEST_SOURCE_DIR}/ui/shader
     ${TEST_SOURCE_DIR}/ui/aicontrol
     ${TEST_SOURCE_DIR}/ui/comm
     ${TEST_SOURCE_DIR}/ui/product/adaptor/device
+    ${TEST_SOURCE_DIR}/ui/product/adaptor/util
 )
 
 #链接库路径
@@ -42,10 +44,16 @@ link_directories(${SDK_PATH}/ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/o
 link_directories(${SDK_PATH}/ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/usr/lib)
 link_directories(${SDK_PATH}/ti-processor-sdk-rtos-j7-evm-07_03_00_05/targetfs/lib)
 
+file(GLOB_RECURSE CPP_SRC_LIST_DEVICE_SUB ${TEST_SOURCE_DIR}/ui/product/adaptor/device/*.cpp)
+file(GLOB_RECURSE C_SRC_LIST_DEVICE_SUB ${TEST_SOURCE_DIR}/ui/product/adaptor/device/*.c)
+
 set(SOURCE_FILES
     ../main.cpp
     ../src/aui_shader_test.cpp
     ../src/aui_aicontrol_test.cpp
+    ../src/aui_mcu_test.cpp
+    ${CPP_SRC_LIST_DEVICE_SUB}
+    ${C_SRC_LIST_DEVICE_SUB}
 )
 
 #生成可执行文件

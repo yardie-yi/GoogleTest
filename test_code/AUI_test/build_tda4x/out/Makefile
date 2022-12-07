@@ -123,6 +123,249 @@ auitest/fast:
 	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/build
 .PHONY : auitest/fast
 
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.s
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.o: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.i: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.i
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.i
+
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.s: home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
+.PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
+
 home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o
 
 .PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o
@@ -177,6 +420,33 @@ home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol
 	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.s
 .PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.s
 
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
+
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i
+
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s
+
 home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o
 
 .PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.o
@@ -213,12 +483,42 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... auitest"
 	@echo "... edit_cache"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.s"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.i"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.s"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.o"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.i"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.s"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.o"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.i"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.s"

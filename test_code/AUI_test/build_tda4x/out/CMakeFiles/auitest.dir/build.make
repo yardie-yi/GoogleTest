@@ -129,11 +129,261 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o
 
 
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o -c /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o   -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o   -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o
+
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o: CMakeFiles/auitest.dir/flags.make
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o   -c /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.i"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c > CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.i
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s"
+	/home/yardie/Desktop/TDA4X_master/ti-processor-sdk-rtos-j7-evm-07_03_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c -o CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.requires:
+
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.requires
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.provides: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.requires
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.provides.build
+.PHONY : CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.provides
+
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.provides.build: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o
+
+
 # Object files for target auitest
 auitest_OBJECTS = \
 "CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o" \
 "CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o" \
-"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o"
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o" \
+"CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o"
 
 # External object files for target auitest
 auitest_EXTERNAL_OBJECTS =
@@ -141,9 +391,19 @@ auitest_EXTERNAL_OBJECTS =
 auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o
 auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o
 auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o
+auitest: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o
 auitest: CMakeFiles/auitest.dir/build.make
 auitest: CMakeFiles/auitest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable auitest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable auitest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/auitest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -154,6 +414,16 @@ CMakeFiles/auitest.dir/build: auitest
 CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o.requires
 CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o.requires
 CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rpmsg_char.c.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/soc.c.o.requires
+CMakeFiles/auitest.dir/requires: CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.o.requires
 
 .PHONY : CMakeFiles/auitest.dir/requires
 
