@@ -21,6 +21,7 @@ include_directories(
     ${TEST_SOURCE_DIR}/ui/shader
     ${TEST_SOURCE_DIR}/ui/aicontrol
     ${TEST_SOURCE_DIR}/ui/comm
+    ${TEST_SOURCE_DIR}/ui/product/adaptor/device
 )
 
 #链接库路径

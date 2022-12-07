@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/../../../googletest-release-1.12.1/googletest/include -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/../../../googletest-release-1.12.1/googletest/include/gtest -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/../include -I/home/yardie/Desktop/TDA4X_master/AUI/ui/shader -I/home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol -I/home/yardie/Desktop/TDA4X_master/AUI/ui/comm 
+CXX_INCLUDES = -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/../../../googletest-release-1.12.1/googletest/include -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/../../../googletest-release-1.12.1/googletest/include/gtest -I/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/../include -I/home/yardie/Desktop/TDA4X_master/AUI/ui/shader -I/home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol -I/home/yardie/Desktop/TDA4X_master/AUI/ui/comm -I/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device 
 

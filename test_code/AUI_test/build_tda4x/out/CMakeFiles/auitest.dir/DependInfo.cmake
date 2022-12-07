@@ -18,6 +18,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/shader"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm"
+  "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device"
   )
 
 # Targets to which this target links.
