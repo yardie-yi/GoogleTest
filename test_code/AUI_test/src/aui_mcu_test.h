@@ -3,9 +3,11 @@
 
 #include <gtest/gtest.h>
 #include "mcu.h"
-
+#include "ti_rpmsg_char.h"
+#include "touch_screen.h"
 
 #define IPC_MCU_DEVICE IPC_DEVICE_NAME_R5F_MCU0_0
+#define TOUCH_DEVICE_NAME "/dev/ttyS4"
 using namespace std;
 
 //TestCase级别事件

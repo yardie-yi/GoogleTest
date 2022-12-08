@@ -366,6 +366,33 @@ home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s:
 	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
 .PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
 
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o
+
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i
+
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s
+
 home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o
 
 .PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o
@@ -510,6 +537,9 @@ help:
 	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.o"
 	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.i"
 	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.s"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.i"
 	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.s"

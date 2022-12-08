@@ -366,23 +366,19 @@ cxxabi.h
 acxx_demangle.h
 -
 
-../../include/aui_aicontrol_test.h
-gtest/gtest.h
+../../common/common.h
+stdlib.h
 -
-aicontrol.h
-../../include/aicontrol.h
-
-../../include/aui_mcu_test.h
-gtest/gtest.h
+stdio.h
+-
+string.h
+-
+assert.h
+-
+limits.h
 -
 mcu.h
-../../include/mcu.h
-
-../../include/aui_shader_test.h
-gtest/gtest.h
--
-shader.h
-../../include/shader.h
+../../common/mcu.h
 
 /home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol/aicontrol.h
 ../shader/shader.h
@@ -768,6 +764,24 @@ show.h
 show.h
 /home/yardie/Desktop/TDA4X_master/AUI/ui/show/show.h
 
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp
+common.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.h
+
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+assert.h
+-
+limits.h
+-
+mcu.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/mcu.h
+
 /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp
 gtest/gtest.h
 -
@@ -776,11 +790,35 @@ gtest/gtest.h
 aui_aicontrol_test.h
 /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.h
 
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.h
+gtest/gtest.h
+-
+aicontrol.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aicontrol.h
+
 /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp
 aui_mcu_test.h
 /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.h
+common.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common.h
+
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.h
+gtest/gtest.h
+-
+mcu.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/mcu.h
+ti_rpmsg_char.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/ti_rpmsg_char.h
+touch_screen.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/touch_screen.h
 
 /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp
 aui_shader_test.h
 /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.h
+
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.h
+gtest/gtest.h
+-
+shader.h
+/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/shader.h
 

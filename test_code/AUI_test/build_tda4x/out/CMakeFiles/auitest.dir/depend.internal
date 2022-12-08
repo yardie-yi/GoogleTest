@@ -86,6 +86,18 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/d
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/debug.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp
  /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/_ptw32.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/need_errno.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/pthread.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/sched.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/util/grid_map/apa_util.h
+ /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp
+ /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o
  ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-assertion-result.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-death-test.h
@@ -131,7 +143,6 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
- ../../include/aui_aicontrol_test.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol/aicontrol.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/egl.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/eglext.h
@@ -154,6 +165,7 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
  /home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_comm.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_tex2d.h
  /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp
+ /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
  ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-assertion-result.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-death-test.h
@@ -176,7 +188,7 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
- ../../include/aui_mcu_test.h
+ ../../common/common.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/_ptw32.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/need_errno.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/pthread.h
@@ -184,9 +196,13 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
  /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rproc_id.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/ti_rpmsg_char.h
+ /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/util/grid_map/apa_util.h
  /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp
+ /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o
  ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-assertion-result.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-death-test.h
@@ -209,7 +225,6 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
  ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
- ../../include/aui_shader_test.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/egl.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/eglext.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/eglplatform.h
@@ -227,3 +242,4 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
  /home/yardie/Desktop/TDA4X_master/AUI/ui/datamng/model.h
  /home/yardie/Desktop/TDA4X_master/AUI/ui/shader/shader.h
  /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp
+ /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.h

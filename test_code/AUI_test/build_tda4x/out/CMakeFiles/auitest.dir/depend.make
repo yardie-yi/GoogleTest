@@ -86,6 +86,18 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/d
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.h
 
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/_ptw32.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/need_errno.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/pthread.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/sched.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/util/grid_map/apa_util.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.h
+
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-assertion-result.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-death-test.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-matchers.h
@@ -130,7 +142,6 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: ../../include/aui_aicontrol_test.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol/aicontrol.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/egl.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/eglext.h
@@ -153,6 +164,7 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_comm.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/show/show_tex2d.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.h
 
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-assertion-result.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-death-test.h
@@ -175,7 +187,7 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: ../../include/aui_mcu_test.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: ../../common/common.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/_ptw32.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/need_errno.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/pthread/pthread.h
@@ -183,9 +195,13 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/canbus_rec.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/device.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mcu.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/rproc_id.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/ti_rpmsg_char.h
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/util/grid_map/apa_util.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.h
 
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-assertion-result.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/gtest-death-test.h
@@ -208,7 +224,6 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-port.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: ../../../../googletest-release-1.12.1/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: ../../include/aui_shader_test.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/egl.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/eglext.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/comm/EGL/eglplatform.h
@@ -226,4 +241,5 @@ CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/datamng/model.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: /home/yardie/Desktop/TDA4X_master/AUI/ui/shader/shader.h
 CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp
+CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o: /home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.h
 
