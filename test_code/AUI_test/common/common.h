@@ -10,6 +10,13 @@ using namespace std;
 typedef unsigned char uint8_t;
 typedef unsigned short int uint16_t;
 
+/*
+enum class DeviceType
+{
+    UART,
+    IPC,
+};
+*/
 typedef struct _PPSApaParkData
 {
     int16_t x;
@@ -29,3 +36,9 @@ typedef struct _PPSApaParkDataMsg
 
 void SendApaPPSControl(PPSApaParkDataMsg data, Mcu* mcu_);
 void send_pps_control(Mcu* mcu_);
+
+class Mcu_control {
+public:
+    Mcu_control();
+
+};
