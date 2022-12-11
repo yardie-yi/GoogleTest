@@ -123,3 +123,50 @@ TEST_F(AiControlAndDatamng, AiControlAndDatamng_test_001)
         EXPECT_EQ(result, true);
     }
 }
+
+//datamng module test & xml loda_file
+TEST_F(DatamngTest, DatamngTest_001)
+{
+    bool ret = true;
+    string file = "/app/config/aiui_cfg.xml";
+    xml_document doc;
+    xml_parse_result result = doc.load_file(file.data());
+    if (result.status == status_ok) {
+        ret = true;
+    } else {
+        ret = false;
+    }
+    EXPECT_EQ(ret, true);
+}
+
+//datamng module test & xml loda_file
+TEST_F(DatamngTest, DatamngTest_002)
+{
+    bool ret = true;
+    string file = "no_exit.xml";
+    xml_document doc;
+    xml_parse_result result = doc.load_file(file.data());
+    if (result.status == status_file_not_found) {
+        ret = true;
+    } else {
+        ret = false;
+    }
+    EXPECT_EQ(ret, true);
+}
+
+//datamng module test & xml loda_file
+TEST_F(DatamngTest, DatamngTest_003)
+{
+    bool ret = true;
+    string file = "";
+    xml_document doc;
+    xml_parse_result result = doc.load_file(file.data());
+    if (result.status == status_file_not_found) {
+        ret = true;
+    } else {
+        ret = false;
+    }
+    EXPECT_EQ(ret, true);
+}
+
+//正常的测试需要构造doc.load_file(cfg.data())返回所有状态的场景
