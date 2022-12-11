@@ -20,11 +20,12 @@ set(CMAKE_TARGET_DEFINITIONS_C
 set(CMAKE_C_TARGET_INCLUDE_PATH
   "../../../../googletest-release-1.12.1/googletest/include"
   "../../../../googletest-release-1.12.1/googletest/include/gtest"
-  "../../src"
-  "../../common"
+  "../../src/test_src"
+  "../../src/common"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/shader"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm"
+  "/home/yardie/Desktop/TDA4X_master/AUI/ui/datamng"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/util"
   )
@@ -35,11 +36,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/mouse.cpp.o"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/touch_screen.cpp.o"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/uart_api.cpp.o"
-  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o"
-  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o"
-  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o"
-  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o"
-  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o"
+  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.o"
+  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.o"
+  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.o"
+  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.o"
+  "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp" "/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/build_tda4x/out/CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -52,11 +53,12 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../../../../googletest-release-1.12.1/googletest/include"
   "../../../../googletest-release-1.12.1/googletest/include/gtest"
-  "../../src"
-  "../../common"
+  "../../src/test_src"
+  "../../src/common"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/shader"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/aicontrol"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/comm"
+  "/home/yardie/Desktop/TDA4X_master/AUI/ui/datamng"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device"
   "/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/util"
   )

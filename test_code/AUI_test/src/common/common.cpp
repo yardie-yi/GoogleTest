@@ -73,3 +73,29 @@ void send_pps_control(Mcu* mcu_)
         SendApaPPSControl(dataMsg, mcu_);
     }
 }
+
+Size *get_size_with_datamng(string cfg)
+{
+    Size *size;
+    xml_document doc;
+    xml_parse_result result = doc.load_file(cfg.data());
+    if (result.status == status_ok)
+    {
+        const char* str = NULL;
+        xml_node rootNode = doc.child("aiui");
+        if (rootNode)
+        {
+            str = rootNode.attribute("width").value();
+            if (str != NULL && strlen(str) > 0)
+            {
+                size->width = atoi(str);
+            }
+            str = rootNode.attribute("height").value();
+            if (str != NULL && strlen(str) > 0)
+            {
+                size->height = atoi(str);
+            }
+        }
+    }
+    return size;
+}

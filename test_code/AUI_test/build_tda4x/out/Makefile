@@ -366,140 +366,140 @@ home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s:
 	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
 .PHONY : home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.c.s
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.o
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.o
-
-# target to build an object file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.o
-
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i
-
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.i
-
-# target to preprocess a source file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.i
-
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s
-
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.s
-
-# target to generate assembly for a file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.cpp.s
-
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o
-
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.o
 
 # target to build an object file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.o
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.i
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.i
 
 # target to preprocess a source file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.i:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.i
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.i
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.s
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.s
 
 # target to generate assembly for a file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.s:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.s
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.cpp.s
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.o
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.o
 
 # target to build an object file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.o
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.i
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.i
 
 # target to preprocess a source file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.i:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.i
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.i
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.s
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.s
 
 # target to generate assembly for a file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.s:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.s
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.cpp.s
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.o
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.o
 
 # target to build an object file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.o
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.i
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.i
 
 # target to preprocess a source file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.i
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.s
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.s
 
 # target to generate assembly for a file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.cpp.s
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.o
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.o
 
 # target to build an object file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.o
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.o
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.i
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.i
 
 # target to preprocess a source file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.i:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.i
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.i
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.i
 
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.s
 
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.s
 
 # target to generate assembly for a file
-home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.s:
-	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.s
-.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.cpp.s
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.cpp.s
+
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.o: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.o
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.o
+
+# target to build an object file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.o:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.o
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.o
+
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.i: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.i
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.i
+
+# target to preprocess a source file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.i:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.i
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.i
+
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.s: home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.s
+
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.s
+
+# target to generate assembly for a file
+home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.s:
+	$(MAKE) -f CMakeFiles/auitest.dir/build.make CMakeFiles/auitest.dir/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.s
+.PHONY : home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.cpp.s
 
 # Help Target
 help:
@@ -537,21 +537,21 @@ help:
 	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.o"
 	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.i"
 	@echo "... home/yardie/Desktop/TDA4X_master/AUI/ui/product/adaptor/device/utils.s"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.o"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.i"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/common/common.s"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.o"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.i"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/main.s"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.o"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.i"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_aicontrol_test.s"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.o"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.i"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_mcu_test.s"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.o"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.i"
-	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/aui_shader_test.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/common/common.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/main.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_aicontrol_test.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_mcu_test.s"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.o"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.i"
+	@echo "... home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/AUI_test/src/test_src/aui_shader_test.s"
 .PHONY : help
 
 

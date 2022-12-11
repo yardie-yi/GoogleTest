@@ -19,11 +19,12 @@ add_definitions(-D_TDA4X=1)
 include_directories(
     ${GTEST_SOURCE_DIR}/googletest/include
 	${GTEST_SOURCE_DIR}/googletest/include/gtest
-    ${PROJECT_SOURCE_DIR}/../src
-    ${PROJECT_SOURCE_DIR}/../common
+    ${PROJECT_SOURCE_DIR}/../src/test_src
+    ${PROJECT_SOURCE_DIR}/../src/common
     ${TEST_SOURCE_DIR}/ui/shader
     ${TEST_SOURCE_DIR}/ui/aicontrol
     ${TEST_SOURCE_DIR}/ui/comm
+    ${TEST_SOURCE_DIR}/ui/datamng
     ${TEST_SOURCE_DIR}/ui/product/adaptor/device
     ${TEST_SOURCE_DIR}/ui/product/adaptor/util
 )
@@ -52,11 +53,11 @@ file(GLOB_RECURSE CPP_SRC_LIST_DEVICE_SUB ${TEST_SOURCE_DIR}/ui/product/adaptor/
 file(GLOB_RECURSE C_SRC_LIST_DEVICE_SUB ${TEST_SOURCE_DIR}/ui/product/adaptor/device/*.c)
 
 set(SOURCE_FILES
-    ../main.cpp
-    ../src/aui_shader_test.cpp
-    ../src/aui_aicontrol_test.cpp
-    ../src/aui_mcu_test.cpp
-    ../common/common.cpp
+    ../src/main.cpp
+    ../src/test_src/aui_shader_test.cpp
+    ../src/test_src/aui_aicontrol_test.cpp
+    ../src/test_src/aui_mcu_test.cpp
+    ../src/common/common.cpp
     ${CPP_SRC_LIST_DEVICE_SUB}
     ${C_SRC_LIST_DEVICE_SUB}
 )

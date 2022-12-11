@@ -4,8 +4,11 @@
 #include <assert.h>
 #include <limits.h>
 #include "mcu.h"
+#include <pugixml/pugixml.hpp>
+#include <pugixml/pugiconfig.hpp>
 
 using namespace std;
+using namespace pugi;
 
 typedef unsigned char uint8_t;
 typedef unsigned short int uint16_t;
@@ -42,3 +45,10 @@ public:
     Mcu_control();
 
 };
+
+struct Size {
+    int width;
+    int height;
+};
+
+Size *get_size_with_datamng(string cfg);

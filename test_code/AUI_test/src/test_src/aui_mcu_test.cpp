@@ -4,7 +4,7 @@
 * API接口测试
 */
 
-//mcu init() test
+#if 0
 TEST_F(McuTest, Mcu_test_001)
 {
     bool ret = true;
@@ -53,3 +53,7 @@ TEST_F(McuTest, Mcu_test_001)
     //delete mcu;
     EXPECT_EQ(ret, true);
 }
+
+#endif
+
+
