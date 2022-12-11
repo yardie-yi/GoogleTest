@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="4" failures="1" disabled="0" errors="0" time="0" timestamp="2022-12-04T17:10:07.872" name="AllTests">
-  <testsuite name="Test" tests="4" failures="1" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-12-04T17:10:07.872">
-    <testcase name="testcase1" file="/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp" line="12" status="run" result="completed" time="0" timestamp="2022-12-04T17:10:07.872" classname="Test" />
-    <testcase name="testcase2" file="/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp" line="20" status="run" result="completed" time="0" timestamp="2022-12-04T17:10:07.872" classname="Test" />
-    <testcase name="testcase3" file="/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp" line="26" status="run" result="completed" time="0" timestamp="2022-12-04T17:10:07.872" classname="Test" />
-    <testcase name="testcase4" file="/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp" line="32" status="run" result="completed" time="0" timestamp="2022-12-04T17:10:07.872" classname="Test">
-      <failure message="/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp:35&#x0A;Expected equality of these values:&#x0A;  num.is_eq_num(4)&#x0A;    Which is: 0&#x0A;  -1" type=""><![CDATA[/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp:35
-Expected equality of these values:
-  num.is_eq_num(4)
-    Which is: 0
-  -1]]></failure>
-    </testcase>
+<testsuites tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2022-12-11T17:21:06.748" name="AllTests">
+  <testsuite name="Test" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-12-11T17:21:06.748">
+    <testcase name="testcase3" file="/home/yardie/Desktop/TDA4X_master/GoogleTest/test_code/sample_model/src/mytest.cpp" line="26" status="run" result="completed" time="0" timestamp="2022-12-11T17:21:06.748" classname="Test" />
   </testsuite>
 </testsuites>
